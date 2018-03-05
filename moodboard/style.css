@@ -1,3 +1,12 @@
+.container{
+max-width: 800px;
+margin: 20px auto;
+padding-bottom: 10px;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+
 body
 {
    
@@ -5,25 +14,30 @@ body
 
 h1, h2, p
 {
-	font-family: 'Mukta Mahee', sans-serif;
+	font-family: Verdana, sans-serif;
 	text-align: center;
-
 }
 
 
 h1
 {
+	margin-bottom: 30px;
 	font-size: xx-large;
+}
+
+h2
+{
+	font-size: large;
 }
 
 p
 {
  font-size: medium;
- margin-bottom: 40px;
 }
 
 img{
-	height: 400px;
+	width: 100%;
+	max-width: 500px;
 	display: block;
     margin-left: auto;
     margin-right: auto }
