@@ -1,32 +1,5 @@
-
-<link href="https://fonts.googleapis.com/css?family=Mukta+Mahee" rel="stylesheet">
-
-body
-{
-   
-}
-
-h1, h2, p
-{
-	font-family: 'Mukta Mahee', sans-serif;
-	text-align: center;
-
-}
-
-
-h1
-{
-	font-size: x-large;
-}
-
-p
-{
- font-size: medium;
- margin-bottom: 50px;
-}
-
 img{
-	height: 400px;
+	height: 1000px;
 	display: block;
     margin-left: auto;
     margin-right: auto }
