@@ -1,6 +1,11 @@
+body {
+		margin: 20px 40px;
+	}
+	
 img{
-	height: 1000px;
+	width: 100%;
 	display: block;
     margin-left: auto;
-    margin-right: auto }
+    margin-right: auto;
+	}
 }
