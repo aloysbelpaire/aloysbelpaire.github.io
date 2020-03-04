@@ -7,6 +7,9 @@
 	box-sizing: border-box;
 }
 
+.parent { display: flex; }
+iframe{ justify-content: center;}
+
 body
 {
 }
@@ -47,13 +50,6 @@ a:hover {
 }
 
 img{
-	width: 100%;
-	max-width: 500px;
-	display: block;
-    margin-left: auto;
-    margin-right: auto }
-
-iframe{
 	width: 100%;
 	max-width: 500px;
 	display: block;
