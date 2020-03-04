@@ -8,7 +8,7 @@
 }
 
 .parent { display: flex; }
-iframe{ justify-content: center;}
+object{ justify-content: center;}
 
 body
 {
