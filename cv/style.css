@@ -38,8 +38,8 @@ img{
 	}
 iframe{
 	width: 100%;
-	max-width: 1000px;
-	height: 1200px;
+	max-width: 800px;
+	height: 80%;
 	display: block;
     margin-left: auto;
     margin-right: auto;
